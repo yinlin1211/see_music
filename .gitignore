@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+播放日志.jsonl
+样本备注.json
+打开次数.json
+*.wav
+*.mp3
+*.mid
+*.midi
+*.npy
+*.png
+*.jsonl
